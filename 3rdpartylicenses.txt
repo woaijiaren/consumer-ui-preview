@@ -177,6 +177,8 @@ date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
 Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
 
 
+undefined
+
 hammerjs
 MIT
 The MIT License (MIT)
@@ -272,8 +274,6 @@ maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
 
-
-undefined
 
 rxjs
 Apache-2.0
